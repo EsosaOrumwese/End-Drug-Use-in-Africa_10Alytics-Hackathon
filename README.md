@@ -18,7 +18,7 @@ This is an analysis on healthcare data relating to deaths, causes of deaths, nat
 * Sierra Leone has the highest health expenditure of 11.88% of GDP followed by Namibia which lags at 9.51%. Majority of the countries have their health expenditures below 7% with Congo, Equatorial Guinea, Benin, Angola and Gabon having below 3% health expenditure. Nigeria performs poorly with a health expenditure of 3.62%.
 
 ## Recommendations
-* It's worth nothing that South America and Oceania both have low deaths per population. Further research can be done to highlight why this is so and how this can be replicated in the top 3 continents. We'll focus on Africa for this analysis.
+* It's worth noting that South America and Oceania both have low deaths per population. Further research can be done to highlight why this is so and how this can be replicated in the top 3 continents. We'll focus on Africa for this analysis.
 * Special attention needs to placed on Postnatal care and Maternal care as neonatal disorders accounts for 10.28% of the total deaths.
 * Sexual education, women empowerment and other governmental policies should be enforced in Lesotho and other countries struggling with HIV/AID.
 * Child health care needs to be improved in Africa as approximately 60% of the deaths in Africa are made up mostly children and youths.
